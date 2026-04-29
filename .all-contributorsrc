@@ -295,6 +295,18 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "aaime",
+      "name": "Andrea Aime",
+      "avatar_url": "https://avatars.githubusercontent.com/u/325433?v=4",
+      "profile": "https://github.com/aaime",
+      "contributions": [
+        "code",
+        "doc",
+        "test",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
